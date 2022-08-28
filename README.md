@@ -1,7 +1,13 @@
+### Hey 👋, I'm Berlensky Oliver
 
+[![Linkedin Badge](https://img.shields.io/badge/-BerlenskyOliver-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jlim/](https://www.linkedin.com/in/berlensky-oliver-jean-baptiste-b324a9201/))](https://www.linkedin.com/in/berlensky-oliver-jean-baptiste-b324a9201/)
+[![Twitter Badge](https://img.shields.io/badge/-BerlenskyO-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/BerlenskyO)
+[![Gmail Badge](https://img.shields.io/badge/-berlenskyoliver-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:berlenskyoliver99@gmail.com)
 
+<!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
+<!-- Berlensky Oliver (jbob) Jean Baptiste
 
-- 👋 Hi, I’m @jbob9
+berlensky-oliver-jean-baptiste-b324a9201 -->
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
