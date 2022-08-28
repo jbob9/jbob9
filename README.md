@@ -1,3 +1,6 @@
+
+
+
 - 👋 Hi, I’m @jbob9
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -23,6 +26,7 @@
 
 <!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
 <!---
+### Hello! I'm Berlensky Oliver Jean Baptiste a Full Stack Developer from Haiti.
 jbob9/jbob9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
